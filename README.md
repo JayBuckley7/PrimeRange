@@ -1,6 +1,6 @@
 # Prime Number Generator
 
-Back with another bold program, this time it's a console app that generates prime numbesr or lets you check their prime status. &nbsp;  
+Back with another bold program, this time it's a console app that generates prime numbers or lets you check their prime status. &nbsp;  
 The project is 3 main files"
 the tests, &nbsp; 
 the generator and inteface where all the buiness logic is.&nbsp; 
