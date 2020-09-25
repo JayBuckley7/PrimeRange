@@ -16,7 +16,6 @@ There are tests written for this app that can be run with the following steps
 ```
 git clone https://github.com/JayBuckley7/PrimeRange.git
 cd PrimeRange
-pip install
 pip install pytest
 pytest
 ```
