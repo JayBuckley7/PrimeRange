@@ -1,16 +1,17 @@
 # Prime Number Generator
 
-Back with another bold program, this time it's a console app that generates prime number or lets you check there prime status
+Back with another bold program, this time it's a console app that generates prime number or lets you check there prime status. &nbsp;  
+The project 3 main files"
+the tests, &nbsp; 
+the generator and inteface where all the buiness logic is.&nbsp; 
+and the tiny console app thats asks the user for input.
 
 ## How to run
 
 This app is written in native python and can be run without an enviornment file by following the following steps
 &nbsp; 
- and consists of 3 main files
-the tests, 
-the generator and inteface where all the buiness logic is
-and the tiny console app thats asks the user for input
-'''This code is written in python'''
+
+```This code is written in python```
 ```
 git clone https://github.com/JayBuckley7/PrimeRange.git
 cd PrimeRange
