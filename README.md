@@ -1,7 +1,10 @@
-# NewTypes Pets Sample
+# Prime Number Generator
 
-This sample is part of the [Organizing and testing projects with the .NET Core command line tutorial](https://docs.microsoft.com/dotnet/core/tutorials/testing-with-cli) for creating .NET Core console applications. See the tutorial for details on the code for this sample.
+Back with another bold program, this time it's a console app that generates prime number or lets you check there prime status
 
-## Key Features
+## Khow to run
 
-This sample builds a program and an associated unit test assembly. Using this sample, you learn how to structure projects as part of a larger solution and incorporate unit tests into your projects.
+This app is written in native python and can be run without an enviornment file by following the following steps
+``
+git clone 
+``
