@@ -2,9 +2,9 @@
 
 Back with another bold program, this time it's a console app that generates prime numbers or lets you check their prime status. &nbsp;  
 The project is 3 main files"
-the tests, &nbsp; 
-the generator and inteface where all the buiness logic is.&nbsp; 
-and the tiny console app thats asks the user for input.
+The tests. &nbsp; 
+The generator and interface where all the buiness logic is. &nbsp; 
+The tiny console app thats asks the user for input.
 
 ## How to run
 
